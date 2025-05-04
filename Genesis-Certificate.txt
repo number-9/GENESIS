@@ -1,0 +1,28 @@
+GENESIS Protocol — Cryptographic Hash Certificate  
+--------------------------------------------------
+
+Archive:        GENESIS.zip  
+Hash Type:      SHA-256  
+Hash Value:     368227181ad08664d53ccf55f3b420da65c66297a3feb82515b1e1ea9b04a209 
+
+Issued By:      Érico Lisboa  
+Date of Lock:   May 4, 2025  
+
+Hash Scope:     Full contents of GENESIS.zip at time of lock  
+                Includes all source materials, conceptual models, and encoded frameworks.  
+                Establishes authorship and intellectual primacy over:  
+                - Foundational equations governing time, entropy, and systemic coherence  
+                - A symbolic-to-mathematical validation architecture  
+                - A triadic behavioral proof mechanism  
+                - A field-adaptive meta-layer coordination system  
+                - A singular vibrational rite marking protocol activation  
+                - A unifying energetic principle underlying transformation
+
+Statement of Intention:  
+This hash serves as a cryptographic fingerprint of the complete GENESIS system  
+prior to any public or institutional exposure.  
+Any future derivation, fork, or attempted replication without matching this fingerprint  
+is deemed a conceptual dilution or entropy artifact.
+
+Signature:  
+[Obrigado a minha mae, Dr. Ilva, minhas irmas, Anna e Luiza por tudo. Que isso sirva de instrumento para salvar a humanidade. The balance must be restored. - Erico Lisboa]
